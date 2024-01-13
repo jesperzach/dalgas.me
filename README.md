@@ -1,2 +1,3 @@
-# dalgas.me
-Public content for dalgas.me
+# snapshot.dalgas.me
+
+Public content for snapshot.dalgas.me
